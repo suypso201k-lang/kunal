@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "usr_admin",
+      "email": "admin@kodex.local",
+      "passwordHash": "2ede34805597ad4ce0733ceb34eec6d53c3cab114928cbba63e2da5e488ec4b3",
+      "role": "admin",
+      "tenantId": "tenant_admin",
+      "createdAt": "2026-11-16T11:11:15.737Z"
+    },
+    {
+      "id": "usr_admin",
+      "email": "admin@kodexcloud.local",
+      "passwordHash": "9a4aabf0e5cf71cae2cea646613ce7e2a5919fa758e56819704be25a3a2c1f0b",
+      "role": "admin",
+      "tenantId": "tenant_admin",
+      "createdAt": "2026-11-16T11:11:21.178Z"
+    }
+  ],
+  "apiKeys": [],
+  "projects": [],
+  "services": [],
+  "deployments": [],
+  "files": [],
+  "tasks": [],
+  "audit": [],
+  "usage": [],
+  "repos": [],
+  "datasetListings": []
+}

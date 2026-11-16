@@ -1,0 +1,17 @@
+# KODEX CLOUD
+
+KODEX CLOUD is a unified developer platform. Its platform-branded assistant is KODEX AI.
+
+## Main services
+- KODEX AI Studio: AI-assisted project and code generation through a background worker.
+- Data Cloud: tenant-scoped file storage and dataset listing workflows.
+- API Marketplace: API key management and model gateway catalogue.
+- Cloud Deploy: service registration and deployment job workflow.
+- Code Forge: public/private repository project records.
+- Control Center: integration and platform configuration status.
+
+## AI identity
+KODEX AI is the assistant identity used by KODEX CLOUD. Operators can connect a self-hosted Ollama-compatible model endpoint or external model APIs. A proprietary trained foundation model exists only after the operator completes model training and deploys the resulting weights.
+
+## Capability notes
+Features depend on configured credentials, storage, database, build workers, payment integration, Git hosting and deployment infrastructure. Do not claim integrations are live unless the platform status confirms them.
